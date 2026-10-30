@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="youtube-email-scraper-api" />
+    <img src="https://github.com/user-attachments/assets/1fe8a45e-0f85-4525-8a66-62246d98aa77" alt="youtube-email-scraper-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/youtube-email-scraper-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/youtube-email-scraper-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/youtube-email-scraper-api.svg)](LICENSE)
